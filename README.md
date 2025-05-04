@@ -8,10 +8,15 @@ A comprehensive **Driver and Vehicle License Department (DVLD)** management syst
 ## 📁 Project Structure
 
 DVLD-System/
+
 ├── DVLD.PL/ # Presentation Layer (UI)
+
 ├── DVLD.BLL/ # Business Logic Layer
+
 ├── DVLD.DAL/ # Data Access Layer
+
 ├── DVLD.PL.sln # Solution File
+
 └── README.md
 
 

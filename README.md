@@ -1,7 +1,7 @@
 
 # 🚗 DVLD System – Driver and Vehicle License Department
 
-A comprehensive **Driver and Vehicle License Department (DVLD)** management system that handles driver's license issuance, testing processes, and administrative operations. Built using **ASP.NET Web Forms** and follows a **3-tier architecture**.
+A comprehensive **Driver and Vehicle License Department (DVLD)** management system that handles driver's license issuance, testing processes, and administrative operations. Built using **.NET Framework Windows Forms** and follows a **3-tier architecture**.
 
 ---
 
@@ -14,11 +14,6 @@ DVLD-System/
 ├── DVLD.PL.sln # Solution File
 └── README.md
 
-markdown
-Copy
-Edit
-
----
 
 ## 🚀 Getting Started
 
@@ -123,13 +118,13 @@ Server-side validation
 
 Connection string configuration
 
-📌 Screenshots
-/////
+![carrent](https://github.com/user-attachments/assets/c7503286-4a72-43a1-b486-aa8a1b0d64b3)
+
 
 📄 License
 Licensed under the MIT License.
 
 ✍️ Author
 Mohamed Elsawah
-GitHub
+
 
